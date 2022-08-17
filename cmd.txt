@@ -1,0 +1,5 @@
+nircmd.exe savescreenshot screen1.png
+
+nircmd.exe cmdwait 2000 savescreenshot screenhotfilename.png
+
+nircmd.exe savescreenshot C:\Users\Bokhate\Desktop\nircmd-x64\scr\~$currdate.MMddyyyy$-~$currtime.HHmmss$.png
